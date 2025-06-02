@@ -1,6 +1,9 @@
 # Sistema de Previsão de Ações Brasileiras com Redes Neurais LSTM
 
 "+ Inicialização do front-end feita por meio da bibliotec streamlit, facilitando o deploy +"
+                  ↓
+" run streamlit sistema_previsao.py" no terminal
+
 
 Este sistema fullstack implementa um modelo completo de previsão para as ações BRL
 - **Vivara (VIVA3)**
