@@ -8,11 +8,11 @@
 ... 
 
 Este sistema fullstack implementa um modelo completo de previsão para as ações BRL
-- **Vivara (VIVA3)**
-- **Movida (MOVI3)** 
-- **Trisul (TRIS3)**
-- **Magazine Luiza (MGLU3)**
-- **Americanas (AMER3)**
+- **Vivara (VIVA3)** com LSTM próprio
+- **Movida (MOVI3)** com LSTM próprio
+- **Trisul (TRIS3)** com LSTM próprio
+- **Magazine Luiza (MGLU3)** sem LSTM próprio
+- **Americanas (AMER3)** sem LSTM próprio
 
 ## Funcionalidades:
 - Coleta de dados históricos dos últimos 5 anos
