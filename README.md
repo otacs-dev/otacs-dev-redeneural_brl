@@ -3,7 +3,8 @@
 "+ Inicialização do front-end feita por meio da bibliotec streamlit, facilitando o deploy +"
                   
  ↓ " run streamlit sistema_previsao.py" no terminal
-
+ 
+"+ Verificação do treinamento do modelo LSTM - no tópico 3 em "sistema_previsao_notebook.ipynb" +"
 ... 
 
 Este sistema fullstack implementa um modelo completo de previsão para as ações BRL
