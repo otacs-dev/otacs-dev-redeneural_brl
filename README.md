@@ -24,5 +24,5 @@ Este sistema fullstack implementa um modelo completo de previsão para as açõe
 
 - ## Necessidade de correção de bugs:
 - Erros de exibição, sendo os prinipais de previsão estimada de preços futuros e aba do Machine Learning
-- Não atualização correta das datas, entretanto quando atualizados os valores, ainda funciona corretamente o sistema de previsão de valores
+- Não atualização correta das datas, entretanto quando atualizados os valores de preços atuais, ainda funciona corretamente o sistema de previsão de valorespor meio do uso da biblioteca: TensorFlow
 
